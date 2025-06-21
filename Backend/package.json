@@ -8,7 +8,7 @@
     "start": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Anupam",
+  "author": "Manish",
   "license": "MIT",
   "dependencies": {
     "@distube/ytdl-core": "^4.16.8",

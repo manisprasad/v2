@@ -1,4 +1,3 @@
-<img width="1899" height="921" alt="Screenshot 2025-07-15 105935" src="https://github.com/user-attachments/assets/8ff14392-eb25-421d-84e7-8a54b74763b7" /># Axion-AI: AI-Powered Learning & Assessment Platform
 
 ## Overview
 Axion-AI is an advanced learning platform that leverages artificial intelligence to transform how users engage with educational content. The platform enables users to upload various types of content (videos, documents, audio) and transforms them into interactive learning experiences with AI-generated summaries, notes, flashcards, and assessments.
@@ -36,9 +35,6 @@ Axion-AI is an advanced learning platform that leverages artificial intelligence
 - **Secure & Private**: Enterprise-grade security with customizable privacy settings
 
 Some glimpse of Extension
-
-[Uploading Screenshot 2025-07-15 105935.png…]()
-![Uploading Screenshot 2025-07-15 110024.png…]()
-
-<img width="1915" height="949" alt="Screenshot 2025-07-15 105913" src="https://github.com/user-attachments/assets/431c38b8-ec54-4c38-baa2-3c10fb3fc66c" />
-
+<img width="1915" height="949" alt="Screenshot 2025-07-15 105913" src="https://github.com/user-attachments/assets/09f92dd0-dc63-445b-ae57-a63f2cf9c1e6" />
+<img width="1899" height="921" alt="Screenshot 2025-07-15 105935" src="https://github.com/user-attachments/assets/70a857b8-e42a-4be7-b18e-1dcf15bf4db7" />
+<img width="1772" height="906" alt="Screenshot 2025-07-15 110024" src="https://github.com/user-attachments/assets/d5c8b246-fc64-4971-bc8f-b55813bf3e94" />
